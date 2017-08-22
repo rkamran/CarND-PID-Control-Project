@@ -47,9 +47,9 @@ Here are some sample vidoes.
 
 |Sample Videos|Kp,Ki,Kd|
 | ------------- |-------------|
-|[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/LQhpuLInvAk)|1.0, 0.0004, 7.0 - Over correcting|
-|[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/f678RolrkSs)|0.2, 0.0004, 1.0 - Speedy approach to trajectory|
-|[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/nBppfHs0wYk)|0.3, 0.0005, 7.0 - Selected Values|
+|[Video 1](https://youtu.be/LQhpuLInvAk)|1.0, 0.0004, 7.0 - Over correcting|
+|[Video 2](https://youtu.be/f678RolrkSs)|0.2, 0.0004, 1.0 - Speedy approach to trajectory|
+|[Video 3 - Final Values](https://youtu.be/nBppfHs0wYk)|0.3, 0.0005, 7.0 - Selected Values|
 
  
 #### Rubric 4 - Simulation
